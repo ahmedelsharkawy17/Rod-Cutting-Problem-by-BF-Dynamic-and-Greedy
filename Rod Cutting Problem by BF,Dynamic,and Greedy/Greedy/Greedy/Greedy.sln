@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Greedy", "Greedy\Greedy.vcxproj", "{8F9115CF-11EC-462B-976C-E14704A24ECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F9115CF-11EC-462B-976C-E14704A24ECA}.Debug|x64.ActiveCfg = Debug|x64
+		{8F9115CF-11EC-462B-976C-E14704A24ECA}.Debug|x64.Build.0 = Debug|x64
+		{8F9115CF-11EC-462B-976C-E14704A24ECA}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F9115CF-11EC-462B-976C-E14704A24ECA}.Debug|x86.Build.0 = Debug|Win32
+		{8F9115CF-11EC-462B-976C-E14704A24ECA}.Release|x64.ActiveCfg = Release|x64
+		{8F9115CF-11EC-462B-976C-E14704A24ECA}.Release|x64.Build.0 = Release|x64
+		{8F9115CF-11EC-462B-976C-E14704A24ECA}.Release|x86.ActiveCfg = Release|Win32
+		{8F9115CF-11EC-462B-976C-E14704A24ECA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B0CF8B9-04B8-4BA5-BAD0-4918CD820CC1}
+	EndGlobalSection
+EndGlobal
